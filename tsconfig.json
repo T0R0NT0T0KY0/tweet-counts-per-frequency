@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ES2020",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"include": [
+      "ts/main.ts"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "minimum_number_of_steps_to_make_two_strings_anagram",
+	"version": "1.0.0",
+	"description": "",
+	"main": "ts/main.ts",
+	"scripts": {
+		"build": "npx tsc",
+		"start": "node ts/main.js",
+		"style": "npx prettier ts --write"
+	},
+	"author": "T0R0NT0T0KY0 <Robbin-the-Bobbin@yandex.ru>",
+	"license": "MIT",
+	"devDependencies": {
+		"prettier": "^3.0.3",
+		"typescript": "^5.2.2"
+	}
+}
