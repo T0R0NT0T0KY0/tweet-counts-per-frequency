@@ -1,5 +1,5 @@
 {
-	"name": "minimum_number_of_steps_to_make_two_strings_anagram",
+	"name": "tweet_counts_per_frequency",
 	"version": "1.0.0",
 	"description": "",
 	"main": "ts/main.ts",
